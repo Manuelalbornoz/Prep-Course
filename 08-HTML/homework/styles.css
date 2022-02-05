@@ -1,0 +1,16 @@
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background: dodgerblue;
+    padding: 50px;
+    border-top: darkred;
+}
+.divClass {
+
+}
+#spanId {
+    color: darkred;
+}
+img {
+    width: 400px;
+}
