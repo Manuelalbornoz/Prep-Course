@@ -1,9 +1,15 @@
 #thirdDiv {
     width: 500px;
     height: 600px;
-    background: dodgerblue;
+    border-style: 2px;
+    border-color: black;
     padding: 50px;
     border-top: darkred;
+    background-color: aqua;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 .divClass {
 
@@ -13,4 +19,11 @@
 }
 img {
     width: 400px;
+}
+body {
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/12/los-mejores-paisajes-del-mundo-para-fondo-de-pantalla-3.jpg");
+    text-align: center;
+}
+div {
+    
 }
